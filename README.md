@@ -8,7 +8,7 @@ In the Brazilian e-commerce market, customers are highly sensitive to shipping f
 
 Records from the olist_order_items_dataset indicate significant variation between product price and freight cost, suggesting that logistics efficiency may strongly influence purchasing decisions and overall sales performance.
 
-2. Need – Business Problem
+## 2. Need – Business Problem
 
 To improve sales performance and customer satisfaction, the Logistics and Growth teams need to better understand how shipping costs impact purchasing behavior.
 
@@ -22,7 +22,7 @@ Which sellers demonstrate inefficient shipping performance, either through high 
 
 Identifying these issues will allow the company to target operational improvements and reduce barriers to purchase.
 
-3. Vision – Analytical Approach
+## 3. Vision – Analytical Approach
 
 To address these challenges, I will develop a Logistics & Sales Analytics Dashboard that highlights the relationship between shipping costs and sales performance.
 
@@ -39,7 +39,7 @@ A ranking system evaluating sellers based on their shipping efficiency, highligh
 
 These analytical tools will provide actionable insights for both the logistics and seller management teams.
 
-4. Outcome – Expected Business Impact
+## 4. Outcome – Expected Business Impact
 
 The results of this analysis will support several operational and strategic improvements.
 
